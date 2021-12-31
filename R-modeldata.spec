@@ -4,7 +4,7 @@
 #
 Name     : R-modeldata
 Version  : 0.1.1
-Release  : 16
+Release  : 17
 URL      : https://cran.r-project.org/src/contrib/modeldata_0.1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/modeldata_0.1.1.tar.gz
 Summary  : Data Sets Used Useful for Modeling Packages
